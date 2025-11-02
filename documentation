@@ -1,0 +1,51 @@
+# VisaVibeKe – Kenya Visa Booking Platform
+
+**A professional web application that allows foreigners to book and process visa applications for visiting Kenya.**
+
+---
+
+## Author
+**Tim Gaius**  
+GitHub: [github.com/gaiuscodes](https://github.com/gaiuscodes)
+
+---
+
+## Live Website
+**https://visavibeke.netlify.app**
+
+---
+
+## GitHub Repository
+**https://github.com/gaiuscodes/VisaVibeKe**
+
+---
+
+## Tech Stack
+| Technology       | Purpose |
+|------------------|--------|
+| **Bolt.new**     | AI-powered initial project generation |
+| **React + TypeScript** | Frontend framework |
+| **Vite**         | Build tool & development server |
+| **Tailwind CSS** | Responsive, modern styling |
+| **Netlify**      | Static hosting & global CDN |
+
+---
+
+## Project Features
+- Clean, Kenya-themed UI with flag and safari-inspired design
+- Fully responsive (mobile, tablet, desktop)
+- Interactive visa application form
+- Simulated processing steps
+- Fast loading (Vite-optimized)
+- Production-ready static build
+
+---
+
+## How to Run Locally
+
+### 1. Development Mode
+```bash
+git clone https://github.com/gaiuscodes/VisaVibeKe.git
+cd VisaVibeKe
+npm install
+npm run dev
